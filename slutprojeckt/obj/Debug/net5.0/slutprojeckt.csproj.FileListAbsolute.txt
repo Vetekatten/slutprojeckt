@@ -1,0 +1,16 @@
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\bin\Debug\net5.0\slutprojeckt.exe
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\bin\Debug\net5.0\slutprojeckt.deps.json
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\bin\Debug\net5.0\slutprojeckt.runtimeconfig.json
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\bin\Debug\net5.0\slutprojeckt.runtimeconfig.dev.json
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\bin\Debug\net5.0\slutprojeckt.dll
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\bin\Debug\net5.0\ref\slutprojeckt.dll
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\bin\Debug\net5.0\slutprojeckt.pdb
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\obj\Debug\net5.0\slutprojeckt.csproj.AssemblyReference.cache
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\obj\Debug\net5.0\slutprojeckt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\obj\Debug\net5.0\slutprojeckt.AssemblyInfoInputs.cache
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\obj\Debug\net5.0\slutprojeckt.AssemblyInfo.cs
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\obj\Debug\net5.0\slutprojeckt.csproj.CoreCompileInputs.cache
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\obj\Debug\net5.0\slutprojeckt.dll
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\obj\Debug\net5.0\ref\slutprojeckt.dll
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\obj\Debug\net5.0\slutprojeckt.pdb
+C:\Users\wilund.joen\Documents\slutproject\slutprojeckt\slutprojeckt\obj\Debug\net5.0\slutprojeckt.genruntimeconfig.cache
